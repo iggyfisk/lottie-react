@@ -4,7 +4,8 @@ import lottie, {
   AnimationDirection,
   AnimationSegment,
   RendererType,
-} from "lottie-web";
+} from "lottie-web/build/player/lottie_light";
+
 import React, {
   CSSProperties,
   useEffect,
